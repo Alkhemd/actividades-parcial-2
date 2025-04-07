@@ -1,0 +1,14 @@
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\obj\Debug\net9.0\actividad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\obj\Debug\net9.0\actividad2.AssemblyInfoInputs.cache
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\obj\Debug\net9.0\actividad2.AssemblyInfo.cs
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\obj\Debug\net9.0\actividad2.csproj.CoreCompileInputs.cache
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\bin\Debug\net9.0\actividad2.exe
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\bin\Debug\net9.0\actividad2.deps.json
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\bin\Debug\net9.0\actividad2.runtimeconfig.json
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\bin\Debug\net9.0\actividad2.dll
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\bin\Debug\net9.0\actividad2.pdb
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\obj\Debug\net9.0\actividad2.dll
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\obj\Debug\net9.0\refint\actividad2.dll
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\obj\Debug\net9.0\actividad2.pdb
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\obj\Debug\net9.0\actividad2.genruntimeconfig.cache
+C:\Users\alank\Desktop\ejercicio2parcial2\actividad2\obj\Debug\net9.0\ref\actividad2.dll
