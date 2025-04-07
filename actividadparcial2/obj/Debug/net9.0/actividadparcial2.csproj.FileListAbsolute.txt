@@ -1,0 +1,14 @@
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\bin\Debug\net9.0\actividadparcial2.exe
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\bin\Debug\net9.0\actividadparcial2.deps.json
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\bin\Debug\net9.0\actividadparcial2.runtimeconfig.json
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\bin\Debug\net9.0\actividadparcial2.dll
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\bin\Debug\net9.0\actividadparcial2.pdb
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\obj\Debug\net9.0\actividadparcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\obj\Debug\net9.0\actividadparcial2.AssemblyInfoInputs.cache
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\obj\Debug\net9.0\actividadparcial2.AssemblyInfo.cs
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\obj\Debug\net9.0\actividadparcial2.csproj.CoreCompileInputs.cache
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\obj\Debug\net9.0\actividadparcial2.dll
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\obj\Debug\net9.0\refint\actividadparcial2.dll
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\obj\Debug\net9.0\actividadparcial2.pdb
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\obj\Debug\net9.0\actividadparcial2.genruntimeconfig.cache
+C:\Users\alank\Desktop\preevaluacionparcial2\actividadparcial2\obj\Debug\net9.0\ref\actividadparcial2.dll
